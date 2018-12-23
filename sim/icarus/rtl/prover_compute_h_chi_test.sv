@@ -1,0 +1,1 @@
+../../common/tb/prover_compute_h_chi_test.sv

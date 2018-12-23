@@ -1,0 +1,1 @@
+../../common/tb/verifier_compute_chi_test.sv

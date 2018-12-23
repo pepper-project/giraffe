@@ -1,0 +1,1 @@
+../../common/rtl/field_negate_or_double.sv

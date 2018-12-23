@@ -1,0 +1,1 @@
+../../common/tb/prover_interpolate_cubic_test.sv

@@ -1,0 +1,4 @@
+#!/bin/bash
+
+exec >&2
+exec ./pws_circuit_test simple4.pws

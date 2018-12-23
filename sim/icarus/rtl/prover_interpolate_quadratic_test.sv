@@ -1,0 +1,1 @@
+../../common/tb/prover_interpolate_quadratic_test.sv

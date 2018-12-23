@@ -1,0 +1,1 @@
+../../common/tb/prover_adder_tree_pl_test.sv

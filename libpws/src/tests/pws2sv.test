@@ -1,0 +1,8 @@
+#!/bin/bash
+
+MDOUT=$(../pws2sv/pws2sv ./simple4.pws | md5sum | cut -d \  -f 1)
+
+if [ ${MDOUT} != "2b0b0ffa2d6005267f20c5f29fd87d08" ]; then
+    echo "ERROR: pws2sv output mismatches."
+    exit 1
+fi

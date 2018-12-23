@@ -1,0 +1,1 @@
+../../common/tb/prover_compute_v_srbank_test.sv

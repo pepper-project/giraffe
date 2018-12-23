@@ -1,0 +1,9 @@
+#!/bin/bash
+
+MDOUT=$(../pws2svg/pws2svg ./simple4.pws | head -n 40 | md5sum | cut -d \  -f 1)
+# need to head -n because parts of the output are nondeterministic, but first 40 lines aren't
+
+if [ ${MDOUT} != "923f1fb97a0882090cb979019f07621a" ]; then
+    echo "ERROR: pws2sv output mismatches."
+    exit 1
+fi

@@ -1,0 +1,1 @@
+../../common/func/func_gateInNum.sv

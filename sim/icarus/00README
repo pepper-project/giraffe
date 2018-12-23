@@ -1,0 +1,3 @@
+NOTE: this code requires a development version of Icarus, because it uses
+features (e.g., constant functions) that are not supported by the latest
+stable release (v0.9.x).

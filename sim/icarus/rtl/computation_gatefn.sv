@@ -1,0 +1,1 @@
+../../common/rtl/computation_gatefn.sv

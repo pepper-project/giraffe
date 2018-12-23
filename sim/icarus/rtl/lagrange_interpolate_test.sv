@@ -1,0 +1,1 @@
+../../common/tb/lagrange_interpolate_test.sv

@@ -1,0 +1,1 @@
+../../common/tb/verifier_adder_tree_test.sv

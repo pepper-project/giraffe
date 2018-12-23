@@ -1,0 +1,1 @@
+../../common/tb/prover_compute_h_test.sv

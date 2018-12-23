@@ -1,0 +1,1 @@
+../../common/tb/verifier_compute_beta_test.sv

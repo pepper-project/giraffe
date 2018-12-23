@@ -1,0 +1,8 @@
+# vim: syntax=tcl
+# SFT for arith VPI module
+# (C) 2015 Riad S. Wahby <rsw@cs.nyu.edu>
+$f_add vpiSysFuncSized 512 unsigned
+$f_mul vpiSysFuncSized 512 unsigned
+$f_sub vpiSysFuncSized 512 unsigned
+$f_halve vpiSysFuncSized 512 unsigned
+$f_rand vpiSysFuncSized 512 unsigned

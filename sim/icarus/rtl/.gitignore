@@ -1,0 +1,8 @@
+a.out
+*.vvp
+cmt_top.sv
+cmt_top_pl.sv
+layergen.sv
+prover_synth_test.sv
+lagrange_coeffs_*.sv
+frompws_*.sv

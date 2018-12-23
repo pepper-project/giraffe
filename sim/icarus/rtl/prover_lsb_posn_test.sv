@@ -1,0 +1,1 @@
+../../common/tb/prover_lsb_posn_test.sv

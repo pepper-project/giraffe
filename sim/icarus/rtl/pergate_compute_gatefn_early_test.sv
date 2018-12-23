@@ -1,0 +1,1 @@
+../../common/tb/pergate_compute_gatefn_early_test.sv

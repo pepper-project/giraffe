@@ -1,0 +1,1 @@
+../../common/rtl/gatefn_defs.v

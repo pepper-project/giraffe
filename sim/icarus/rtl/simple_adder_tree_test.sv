@@ -1,0 +1,1 @@
+../../common/tb/simple_adder_tree_test.sv

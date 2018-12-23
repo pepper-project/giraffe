@@ -1,0 +1,1 @@
+../../common/rtl/pergate_compute_gatefn_early.sv
